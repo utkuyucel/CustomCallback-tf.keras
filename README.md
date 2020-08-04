@@ -1,2 +1,2 @@
 # CustomCallback-tf.keras
- Custom callbacks 
+ Custom callbacks for personal using
